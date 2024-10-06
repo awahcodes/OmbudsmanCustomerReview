@@ -1,4 +1,5 @@
 #Overview: 
+
 The Energy Ombudsman acts as an intermediary between customers and their energy suppliers when disputes arise. This analysis explores customer sentiment towards the Energy Ombudsman, specifically from those seeking a second hearing on their complaint or dispute with an energy supplier. The goal was to assess how customers perceive the fairness and effectiveness of this institution over time.
 
 #Approach:
