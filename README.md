@@ -1,7 +1,7 @@
-Overview: 
+#Overview: 
 The Energy Ombudsman acts as an intermediary between customers and their energy suppliers when disputes arise. This analysis explores customer sentiment towards the Energy Ombudsman, specifically from those seeking a second hearing on their complaint or dispute with an energy supplier. The goal was to assess how customers perceive the fairness and effectiveness of this institution over time.
 
-Approach:
+#Approach:
 
 •	Data Collection: Over 4,000 customer reviews from Trustpilot (2014–2024) were web-scraped using Python.
 
@@ -11,7 +11,7 @@ Approach:
 
 •	Sentiment Modeling: The dataset was prepared for further sentiment analysis on the customer comments.
 
-Insights:
+#Insights:
 
 •	Average Rating: The overall average customer rating was 3 out of 5 over the 10-year period.
 
@@ -21,7 +21,7 @@ Insights:
 
 •	Demographics: The majority of reviews came from customers based in the UK.
 
-Recommendations:
+#Recommendations:
 
 •	Customer Dissatisfaction: Many customers seem dissatisfied with the Ombudsman's resolutions, as reflected in the lower ratings between 2014 and 2019. Perhaps, decision from the energy supplier was sufficient and fair and did not require appealing to energy ombudsman.
 
